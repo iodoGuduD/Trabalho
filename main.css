@@ -5,17 +5,21 @@
     box-sizing: border-box;
 }
 
-main{
-    background: linear-gradient(white, gray);
-}
-
 header{
     background: #f4f;
     height: 100px;
     text-align: center;
 }
 
+main{
+    background: linear-gradient(white, gray);
+}
+
+.caixa{
+    width: 200px;
+}
+
 p{
-    width: 80%;
+    position: absolute;
     text-align: left;
 }

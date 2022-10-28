@@ -6,6 +6,30 @@
 }
 
 .caixote{
-    width: auto;
-    height: 150px;
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+header{
+    background: lightgreen;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #004113;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
 }

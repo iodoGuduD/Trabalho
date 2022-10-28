@@ -5,21 +5,6 @@
     box-sizing: border-box;
 }
 
-header{
-    background: #f4f;
-    height: 100px;
-    text-align: center;
-}
-
-main{
-    background: linear-gradient(white, gray);
-}
-
-.caixa{
-    width: 200px;
-}
-
-p{
-    position: absolute;
-    text-align: left;
+.caixote{
+    
 }

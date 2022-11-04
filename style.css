@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
 :root{
     --goiaba: rgb(222,118,124);
     --verde-goiaba: #8ebea2;
@@ -10,28 +12,17 @@
     box-sizing: border-box;
 }
 
-body{
+body, ul{
     background: var(--verde-goiaba);
+    padding: 0;
+    margin: 0;
 }
 
-header{
-    
+body{
+    font-family: 'Poppins', sans-serif;
 }
 
-nav{
-    position: absolute;
-    top: 110px;
-    right: 0;
-}
-
-nav li{
-    display: inline;
-    margin: 0 0 0 15px;
-}
-
-nav a {
-    text-transform: uppercase;
+a{
     color: var(--goiaba);
-    font-size: 22px;
     text-decoration: none;
 }

@@ -3,6 +3,7 @@
 :root{
     --goiaba: rgb(222,118,124);
     --verde-goiaba: #8ebea2;
+    --goiaba-escura: #7B3E3C;
 }
 
 *{
@@ -25,4 +26,11 @@ body{
 a{
     color: var(--goiaba);
     text-decoration: none;
+}
+
+.cabeca{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--goiaba-escura);
 }

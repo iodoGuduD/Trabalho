@@ -4,6 +4,7 @@
     --goiaba: rgb(222,118,124);
     --verde-goiaba: #8ebea2;
     --goiaba-escura: #7B3E3C;
+    --verdao-goiaba: #007f3a;
 }
 
 *{
@@ -33,4 +34,10 @@ a{
     align-items: center;
     justify-content: space-between;
     background: var(--goiaba-escura);
+    padding: 1rem;
+}
+
+.titulo{
+    font-weight: bold;
+    font-size: 1,5rem;
 }

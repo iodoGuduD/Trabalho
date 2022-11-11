@@ -42,3 +42,10 @@ a{
     font-weight: bold;
     font-size: 1,5rem;
 }
+
+.logo{
+    max-width: 100px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+}

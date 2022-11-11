@@ -25,9 +25,8 @@ body{
 }
 
 a{
-    color: var(--goiaba);
+    color: var(--verde-goiaba);
     text-decoration: none;
-    background: var(--verde-goiaba);
 }
 
 .cabeca{

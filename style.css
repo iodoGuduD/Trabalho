@@ -42,10 +42,21 @@ a{
     max-height: 200px;
     width: auto;
     height: auto;
+    margin: 0 80rem 0 0; 
 }
 
 .menu{
     list-style: none;
     display: flex;
     gap: 0.5rem;
+}
+
+.menu a{
+    display: block;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.menu a:hover{
+    background: var(--goiaba);
 }

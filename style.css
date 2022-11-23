@@ -46,9 +46,8 @@ a{
 }
 
 .logo:hover{
-    border-radius: 100px;
+    border-radius: 85px;
     background: linear-gradient(var(--meio-goiaba), var(--goiaba));
-    transition-duration: 0.2;
 }
 
 .menu{

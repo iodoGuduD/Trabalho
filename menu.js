@@ -1,3 +1,3 @@
-const menu = document.querySelector(nav)
+let logo = document.querySelector('logo');
 
-console.log(menu)
+logo.addEventListener('CLICK').transition().duration(1000);

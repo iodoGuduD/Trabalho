@@ -48,7 +48,7 @@ a{
 .logo:hover{
     width: 9.375rem;
     border-radius: 0.5rem;
-    background: linear-gradient(var(--meio-goiaba), var(--goiaba));
+    background: linear-gradient(var(--goiaba), var(--meio-goiaba));
 }
 
 .menu{

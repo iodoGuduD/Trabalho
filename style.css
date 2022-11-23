@@ -43,7 +43,11 @@ a{
     max-height: 200px;
     width: auto;
     height: auto;
-    align-content: left;
+}
+
+.logo:hover{
+    border-radius: 100px;
+    background: linear-gradient(var(--meio-goiaba), var(--goiaba));
 }
 
 .menu{

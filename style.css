@@ -67,10 +67,13 @@ a{
     background: var(--meio-goiaba);
 }
 
+footer{
+    background: rgb(61, 42, 51);
+}
+
 .creditos {
     display: flex;
     justify-content: center;
-    background: rgb(61, 42, 51);
     flex-direction: row;
     align-items: baseline;
 }

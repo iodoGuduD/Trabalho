@@ -72,6 +72,7 @@ a{
     justify-content: center;
     background: rgb(61, 42, 51);
     flex-direction: row;
+    align-items: baseline;
 }
 
 .creditos li {
@@ -89,11 +90,11 @@ a{
 }
 
 .creditos h2 {
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: bold;
 }
 
 .funcao {
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: italic;
 }

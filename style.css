@@ -103,12 +103,6 @@ footer{
     font-weight: bold;
 }
 
-.funcao {
-    display: inline-flex;
-    font-size: 1rem;
-    font-weight: italic;
-}
-
 .copyright{
     justify-content: center;
     padding: 2rem 0;

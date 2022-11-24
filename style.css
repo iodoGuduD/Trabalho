@@ -67,6 +67,10 @@ a{
     background: var(--meio-goiaba);
 }
 
+main{
+    margin: 1rem 3rem;
+}
+
 footer{
     background: rgb(61, 42, 51);
 }
@@ -88,8 +92,9 @@ footer{
 }
 
 .foto{
+    border: 1rem;
     border-radius: 50px;
-    color: var(--verdao-goiaba);
+    border-color: var(--verdao-goiaba);
 }
 
 .creditos h2 {

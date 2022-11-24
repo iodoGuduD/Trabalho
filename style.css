@@ -70,7 +70,7 @@ a{
 .creditos {
     display: flex;
     justify-content: center;
-    background: url();
+    background: url("goiabinhadeliciosa.png");
 }
 
 .creditos li {

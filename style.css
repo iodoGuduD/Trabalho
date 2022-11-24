@@ -71,10 +71,11 @@ a{
     display: flex;
     justify-content: center;
     background: rgb(61, 42, 51);
+    flex-direction: row;
 }
 
 .creditos li {
-    display: inline-block;
+    display: flex;
     text-align: center;
     width: 30%;
     vertical-align: top;

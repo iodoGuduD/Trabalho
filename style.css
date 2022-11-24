@@ -71,6 +71,7 @@ a{
     display: flex;
     justify-content: center;
     background: url("goiabinhadeliciosa.png");
+    background: rgb(61, 42, 51);
 }
 
 .creditos li {

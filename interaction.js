@@ -1,3 +1,4 @@
-let logo = document.querySelector('logo');
+let hideButtom = document.querySelector(logo);
+console.log(hideButtom);
 
-console.log(logo);
+hideButtom.addEventListener('CLICK');

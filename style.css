@@ -70,7 +70,6 @@ a{
 .creditos {
     display: flex;
     justify-content: center;
-    background: url("goiabinhadeliciosa.png");
     background: rgb(61, 42, 51);
 }
 
@@ -80,17 +79,22 @@ a{
     width: 30%;
     vertical-align: top;
     margin: 0 1.5%;
-    padding: 30px 20px;
+    padding: 2rem 1rem;
     box-sizing: border-box;
 }
 
+.foto{
+    border-radius: 50px;
+    color: var(--verdao-goiaba);
+}
+
 .creditos h2 {
-    font-size: 30px;
+    font-size: 1rem;
     font-weight: bold;
 }
 
 .funcao {
-    font-size: 22px;
-    font-weight: bold;
+    font-size: 0.5rem;
+    font-weight: italic;
     margin-top: 1rem;
 }

@@ -98,3 +98,9 @@ a{
     font-size: 1rem;
     font-weight: italic;
 }
+
+.copyright{
+    display: inline;
+    align-content: center;
+    padding: 0 0 1rem 0 ;
+}

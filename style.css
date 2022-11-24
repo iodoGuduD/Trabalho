@@ -48,7 +48,7 @@ a{
 .logo:hover{
     width: 9.375rem;
     border-radius: 0.5rem;
-    background: linear-gradient(rgb(150, 61, 66), var(--meio-goiaba));
+    background: var(--meio-goiaba);
 }
 
 .menu{
@@ -65,4 +65,31 @@ a{
 
 .menu a:hover{
     background: var(--meio-goiaba);
+}
+
+.creditos {
+    display: flex;
+    justify-content: center;
+    background: ;
+}
+
+.creditos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+.creditos h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.funcao {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 1rem;
 }

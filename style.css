@@ -78,7 +78,6 @@ a{
     display: flex;
     text-align: center;
     width: 30%;
-    vertical-align: top;
     margin: 0 1.5%;
     padding: 2rem 1rem;
     box-sizing: border-box;
@@ -90,12 +89,11 @@ a{
 }
 
 .creditos h2 {
-    font-size: 1rem;
+    font-size: 3rem;
     font-weight: bold;
 }
 
 .funcao {
-    font-size: 0.5rem;
+    font-size: 1.5rem;
     font-weight: italic;
-    margin-top: 1rem;
 }

@@ -104,11 +104,12 @@ footer{
 }
 
 .funcao {
+    display: inline-flex;
     font-size: 1rem;
     font-weight: italic;
 }
 
 .copyright{
-    align-content: center;
+    justify-content: center;
     padding: 2rem 0;
 }

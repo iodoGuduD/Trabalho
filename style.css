@@ -75,16 +75,20 @@ main{
 footer{
     background: rgb(61, 42, 51);
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
 }
 
 .final{
-    max-width: 10rem;
-    max-height: 15rem;
+    max-width: 12rem;
+    max-height: 17rem;
     width: auto;
     height: auto;
+    padding: 1rem 0 0 0;
 }
 
 .copyright{
+    box-align: center;
     padding: 3rem 0;
 }

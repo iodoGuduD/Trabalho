@@ -77,9 +77,14 @@ main{
     margin: 1rem 0;
 }
 
+.album{
+    display: flex;
+    
+}
+
 .foto-falsa{
-    height: 3rem;
-    width: 3rem;
+    height: 7rem;
+    width: 5rem;
     background: var(--goiaba);
     border-style: solid;
     border-width: 4px;

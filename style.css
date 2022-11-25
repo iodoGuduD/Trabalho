@@ -79,12 +79,13 @@ main{
 
 .album{
     display: flex;
-    
+    justify-content: space-evenly;
+    margin: 0 0 1.5rem 0;
 }
 
 .foto-falsa{
-    height: 7rem;
-    width: 5rem;
+    height: 6rem;
+    width: 10rem;
     background: var(--goiaba);
     border-style: solid;
     border-width: 4px;

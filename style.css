@@ -74,34 +74,17 @@ main{
 
 footer{
     background: rgb(61, 42, 51);
+    display: flex;
+    justify-content: center;
 }
 
-.creditos {
-    width: 940px;
-    margin: 0 auto;
-    padding: 50px 0;
-}
-
-.creditos li {
-    display: inline-block;
-    text-align: center;
-    width: 30%;
-    vertical-align: top;
-    margin: 0 1.5%;
-    padding: 30px 20px;
-    box-sizing: border-box;
-}
-
-.creditos h2 {
-    font-size: 30px;
-    font-weight: bold;
-}
-
-.nome {
-    font-size: 18px;
+.final{
+    max-width: 10rem;
+    max-height: 15rem;
+    width: auto;
+    height: auto;
 }
 
 .copyright{
-    justify-content: center;
-    padding: 2rem 0;
+    padding: 3rem 0;
 }

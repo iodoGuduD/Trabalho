@@ -77,30 +77,28 @@ footer{
 }
 
 .creditos {
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    align-items: baseline;
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
 }
 
 .creditos li {
-    display: flex;
+    display: inline-block;
     text-align: center;
     width: 30%;
+    vertical-align: top;
     margin: 0 1.5%;
-    padding: 2rem 1rem;
+    padding: 30px 20px;
     box-sizing: border-box;
 }
 
-.foto{
-    border: 1rem;
-    border-radius: 50px;
-    border-color: var(--verdao-goiaba);
+.creditos h2 {
+    font-size: 30px;
+    font-weight: bold;
 }
 
-.creditos h2 {
-    font-size: 2rem;
-    font-weight: bold;
+.nome {
+    font-size: 18px;
 }
 
 .copyright{

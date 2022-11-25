@@ -74,6 +74,8 @@ main{
 }
 
 .falsa-mor{
+    display: flex;
+    justify-content: center;
     width: 30rem;
     height: 16rem;
     border-style: solid;

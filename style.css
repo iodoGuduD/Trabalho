@@ -46,6 +46,11 @@ a{
     margin: 0 0 0 3rem;
 }
 
+.logo:hover{
+    border-radius: ;
+    background: var(--meio-goiaba);
+}
+
 .menu{
     list-style: none;
     display: flex;

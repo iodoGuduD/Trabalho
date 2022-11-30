@@ -74,7 +74,7 @@ a{
 .menu{
     display: block;
     position: absolute;
-    top: 4.6875rem;
+    top: 6.9325rem;
     left: 0;
     background: var(--goiaba-escura);
     text-align: center;
@@ -117,7 +117,7 @@ a{
     transition: 0.3s;
 }
 .nav.active .menu{
-    height: calc(100vh - 7rem);
+    height: calc(100vh - 0.4375rem);
     visibility: visible;
     overflow-y: auto;
 }

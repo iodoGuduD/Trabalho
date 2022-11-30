@@ -129,7 +129,7 @@ a{
 }
 .nav.active .hamburguer::after{
     transform: rotate(-135deg);
-    top: -0.4375rem;
+    top: -7rem;
 }
 
 

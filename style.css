@@ -98,7 +98,7 @@ a{
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    color: var(--meio-goiaba);
+    color: black;
     padding-block: 1rem;
     cursor: pointer;
 }
@@ -117,7 +117,7 @@ a{
     transition: 0.3s;
 }
 .nav.active .menu{
-    height: calc(100vh - 6.9325rem);
+    height: calc(100vh - 7rem);
     visibility: visible;
     overflow-y: auto;
 }
@@ -128,8 +128,8 @@ a{
     transform: rotate(135deg);
 }
 .nav.active .hamburguer::after{
-      transform: rotate(-135deg);
-     top: -0.4375rem;
+    transform: rotate(-135deg);
+    top: -0.4375rem;
 }
 
 

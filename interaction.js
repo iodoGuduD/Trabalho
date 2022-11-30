@@ -7,7 +7,7 @@ function botaoDentro(event){
         event.preventDefault();
     }
     event.stopPropagation();
-    nav.classList.tooggle("active");
+    nav.classList.toggle("active");
     botaoFora(menu, () => {
         nav.classList.remove("active");
         mudarAria();

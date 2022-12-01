@@ -139,6 +139,7 @@ a{
 .foto-mor{
     width: 100vw;
     height: auto;
+    border-bottom: 0.38rem solid var(--goiaba);
 }
 
 .principal{

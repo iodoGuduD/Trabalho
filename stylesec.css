@@ -38,7 +38,7 @@ input, textarea, button{
 
 input, textarea{
     margin-bottom: 1rem;
-    color: white;
+    color: black;
     background: var(--verdao-goiaba);
     border: 0.125rem solid transparent;
     border-radius: 1.125rem;

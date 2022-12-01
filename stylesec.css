@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+:root{
+    --goiaba: rgb(222,118,124);
+    --verde-goiaba: #8ebea2;
+    --goiaba-escura: #7B3E3C;
+    --verdao-goiaba: #007f3a;
+    --meio-goiaba: #916163;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+footer{
+    background: rgb(61, 42, 51);
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.final{
+    max-width: 12rem;
+    max-height: 17rem;
+    width: auto;
+    height: auto;
+    padding: 1rem 0 0 0;
+}
+
+.copyright{
+    font-size: 1.25rem;
+    font-weight: bold;
+    box-align: center;
+    padding: 3rem 0;
+}
